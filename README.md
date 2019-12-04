@@ -42,6 +42,4 @@ Stretch Git Tasks
 
 - [ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
 
-Change change change coding time new changes 
-
-time for new changes time time time
+https://codepen.io/JustinChang06/pen/oNggoWo
